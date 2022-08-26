@@ -1,1 +1,1 @@
-# Js
+# JS practice
